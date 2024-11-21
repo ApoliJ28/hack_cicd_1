@@ -7,7 +7,7 @@ on:
       - develop
 
 jobs:
-  detectar_PR:
+  detectar_pr:
     runs-on: ubuntu-latest
     
     steps:
